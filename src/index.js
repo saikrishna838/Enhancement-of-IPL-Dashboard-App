@@ -11,4 +11,8 @@ ReactDOM.render(
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root'),
+<<<<<<< HEAD
 )
+=======
+)
+>>>>>>> 855b91ca08eeb3d64178c2d60d05439047547ce7
